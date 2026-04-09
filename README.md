@@ -114,3 +114,8 @@ Developed as part of a data analytics portfolio focused on **healthcare intellig
 
 ## 📄 Detailed Insights
 See full analysis in [insights.md](./insights.md)
+
+## 🌐 Interactive Web App
+A simple Health Risk Calculator built using HTML, CSS, and JavaScript.
+
+This app replicates the risk scoring logic used in the Power BI dashboard and demonstrates how analytics can be translated into user-facing applications.
