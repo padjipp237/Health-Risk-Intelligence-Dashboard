@@ -111,3 +111,6 @@ Dynamic recommendations generated based on individual risk profiles.
 Developed as part of a data analytics portfolio focused on **healthcare intelligence and preventive analytics**.
 
 ---
+
+## 📄 Detailed Insights
+See full analysis in [insights.md](./insights.md)
