@@ -119,3 +119,6 @@ See full analysis in [insights.md](./insights.md)
 A simple Health Risk Calculator built using HTML, CSS, and JavaScript.
 
 This app replicates the risk scoring logic used in the Power BI dashboard and demonstrates how analytics can be translated into user-facing applications.
+
+## 🌐 Live Demo
+👉 https://padjipp237.github.io/health-risk-intelligence-dashboard/
